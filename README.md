@@ -19,6 +19,7 @@ I combine backend engineering with technical writing — so you get working code
 
 | Project | Description |
 |---|---|
+| [Inventory-Management-System-API](https://github.com/genbadar/Inventory-Management-System-API) | A high-performance, asynchronous RESTful API for Product Inventory Management System. |
 | [OrderManagementSystem](https://github.com/genbadar/OrderManagementSystem) | Production-ready order lifecycle API with background jobs and Clean Architecture |
 | [TaskManagerApi](https://github.com/genbadar/TaskManagerApi) | Multi-workspace task API — ASP.NET Core + EF Core + PostgreSQL |
 | [BookStore](https://github.com/genbadar/BookStore) | Bookstore API in N-Tier pattern, built as a learning resource |
