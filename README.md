@@ -28,5 +28,5 @@ I combine backend engineering with technical writing — so you get working code
 
 ## Find me
 
-[![YouTube](https://img.shields.io/badge/YouTube-BadarDotNet-red?logo=youtube)]([https://www.youtube.com/@BadarBizOps](https://www.youtube.com/@BadarDotNet))
+[![YouTube](https://img.shields.io/badge/YouTube-BadarDotNet-red?logo=youtube)](https://www.youtube.com/@BadarDotNet)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?logo=fiverr)](https://www.fiverr.com/invocare)
