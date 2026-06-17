@@ -1,4 +1,4 @@
-# Badar Tagar — Backend Developer · .NET & Go · DX
+# Badar Tagar — Backend Developer · .NET - DevSecOps - App Security - Application Architecture
 
 Senior ASP.NET Core developer and ERP specialist building clean, documented APIs.
 
